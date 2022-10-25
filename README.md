@@ -1,4 +1,5 @@
-# express_skeleton_html
-Express generator with pure HTML
+# express with MongoDB 
 
-이 프로젝트에서부터 시작하세요
+## Mongoose 를 활용하여 MongoDB + NodeJS 활용
+
+수업 예제입니다.
